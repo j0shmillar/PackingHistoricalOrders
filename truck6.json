@@ -1,0 +1,6 @@
+[{"truck": 6, "departs": "2021-08-12T17:00:00", "locker": 1, "occupied": null, "kind": "ks611", "w": 758, "d": 500, "h": 300, "totalh":1800},
+ {"truck": 6, "departs": "2021-08-12T17:00:00", "locker": 2, "occupied": null, "kind": "ks611", "w": 758, "d": 500, "h": 300, "totalh":1800},
+ {"truck": 6, "departs": "2021-08-12T17:00:00", "locker": 3, "occupied": null, "kind": "ks612", "w": 758, "d": 1000, "h": 300, "totalh":1800},
+ {"truck": 6, "departs": "2021-08-12T17:00:00", "locker": 4, "occupied": null, "kind": "ks621", "w": 530, "d": 1000, "h": 600, "totalh":1200},
+ {"truck": 6, "departs": "2021-08-12T17:00:00", "locker": 5, "occupied": null, "kind": "ks622", "w": 1845, "d": 1000, "h": 600, "totalh":1200},
+ {"truck": 6, "departs": "2021-08-12T17:00:00", "locker": 6, "occupied": null, "kind": "ks631", "w": 2475, "d": 1350, "h": 400, "totalh":800}]

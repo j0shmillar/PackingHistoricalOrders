@@ -1,0 +1,10 @@
+[{"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 1, "occupied": null, "kind": "ks13", "w": 361, "d": 600, "h": 389, "totalh":1520},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 2, "occupied": null, "kind": "ks12", "w": 361, "d": 1200, "h": 380, "totalh":1520},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 3, "occupied": null, "kind": "ks12", "w": 361, "d": 1200, "h": 380, "totalh":1520},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 4, "occupied": null, "kind": "ks11", "w": 495, "d": 600, "h": 380, "totalh":1520},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 5, "occupied": null, "kind": "ks11", "w": 495, "d": 600, "h": 380, "totalh":1520},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 6, "occupied": null, "kind": "ks721", "w": 758, "d": 1200, "h": 320, "totalh":1200},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 7, "occupied": null, "kind": "ks721", "w": 758, "d": 1200, "h": 320, "totalh":1200},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 8, "occupied": null, "kind": "ks721", "w": 758, "d": 1200, "h": 320, "totalh":1200},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 9, "occupied": null, "kind": "ks731", "w": 2475, "d": 800, "h": 200, "totalh":1000},
+ {"truck": 7, "departs": "2021-08-12T17:00:00", "locker": 10, "occupied": null, "kind": "ks731", "w": 2475, "d": 800, "h": 200, "totalh":800}]
