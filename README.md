@@ -3,6 +3,7 @@
 Python script for simulating packing historical orders.
 
 **Instructions:**
+
 The script can be run from the command line like so:
    
      python sim.py "lockerLayout.json" "orderData.txt"
