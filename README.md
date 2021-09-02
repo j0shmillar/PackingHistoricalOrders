@@ -15,8 +15,8 @@ For example,
 Results will be printed to the terminal. 
 Two csv files will be created - one containing all 'good' orders e.g. "good_orders_truck7.json", and similarly one containing all "bad".  
 
-See "truck7.json" for an example of how to format the lockerLayout.json if adding a new truck.
-A similar format must be followed when adding a new truck to the database (must use cadJosh). 
+If adding a new truck, see "truck6.json" and "truck7.json" for examples of how to format the locker layout. 
+A similar format must be followed when adding a new truck to the database (i.e. cadJosh). 
                     
  
 
