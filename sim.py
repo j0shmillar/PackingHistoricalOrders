@@ -230,7 +230,7 @@ if not os.path.isdir(f"testorders/{orderData}"):
     mkorders()
 x = os.listdir(f"testorders/{orderData}")
 x.sort()
-for filename in x[:100]:
+for filename in x:
     totalFit += sim(filename)    
     if totalProcessed % 50 == 0:
         print(f"Processing {totalProcessed}")
